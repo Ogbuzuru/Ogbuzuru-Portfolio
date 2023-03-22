@@ -1,0 +1,86 @@
+  <div class="scetion-center blog-center">
+        <!-- single article -->
+        <article class="blog-card">
+          <!-- card front -->
+          <div class="card-side card-front">
+            <img src="./images/project-1.jpeg" alt=" apple" class="blog-photo">
+            <div class="card-info">
+              <h4>article title</h4>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis provident molestiae earum obcaecati iusto sapiente
+                corrupti tempore optio. Doloremque, non!</p>
+                <div class="card-footer">
+                  <img src="./images/IMG_0044.JPG" alt="">
+                  <p>7 min read</p>
+                </div>
+            </div>
+          </div>
+          <!-- card back -->
+          <div class="card-side card-back">
+            <a href="#" class="btn card-btn">read more</a>
+          </div>
+        </article>
+        <!-- end  single article -->
+          <article class="blog-card">
+            <!-- card front -->
+            <div class="card-side card-front">
+              <img src="./images/project-2.jpeg" alt=" apple" class="blog-photo">
+              <div class="card-info">
+                <h4>article title</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis provident molestiae earum obcaecati iusto
+                  sapiente
+                  corrupti tempore optio. Doloremque, non!</p>
+                  <div class="card-footer">
+                    <img src="./images/IMG_0044.JPG" alt="">
+                    <p>7 min read</p>
+                  </div>
+              </div>
+            </div>
+            <!-- card back -->
+            <div class="card-side card-back">
+              <a href="#" class="btn card-btn">read more</a>
+            </div>
+          </article>
+          <!-- end  single article -->
+            <article class="blog-card">
+              <!-- card front -->
+              <div class="card-side card-front">
+                <img src="./images/project-3.jpeg" alt=" apple" class="blog-photo">
+                <div class="card-info">
+                  <h4>article title</h4>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis provident molestiae earum obcaecati iusto
+                    sapiente
+                    corrupti tempore optio. Doloremque, non!</p>
+                    <div class="card-footer">
+                      <img src="./images/IMG_0044.JPG" alt="">
+                      <p>7 min read</p>
+                    </div>
+                </div>
+              </div>
+              <!-- card back -->
+              <div class="card-side card-back">
+                <a href="#" class="btn card-btn">read more</a>
+              </div>
+            </article>
+            <!-- end  single article -->
+              <article class="blog-card">
+                <!-- card front -->
+                <div class="card-side card-front">
+                  <img src="./images/project-4.jpeg" alt=" apple" class="blog-photo">
+                  <div class="card-info">
+                    <h4>article title</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis provident molestiae earum obcaecati iusto
+                      sapiente
+                      corrupti tempore optio. Doloremque, non!</p>
+                      <div class="card-footer">
+                        <img src="./images/IMG_0044.JPG" alt="">
+                        <p>7 min read</p>
+                      </div>
+                  </div>
+                </div>
+                <!-- card back -->
+                <div class="card-side card-back">
+                  <a href="#" class="btn card-btn">read more</a>
+                </div>
+              </article>
+              <!-- end  single article -->
+      </div>
